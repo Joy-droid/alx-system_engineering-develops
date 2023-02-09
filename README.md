@@ -1,2 +1,3 @@
 # alx-system_engineering-develops
-0-i am_betty
+Directory: 0x01-shell_permissions
+File: 0-i am_betty
